@@ -66,4 +66,4 @@ If you want to run this project locally on your machine, follow these steps:
    npm start
 
 ### License:
-- ****:You can now copy and paste this into your `README.md` file, and it will render with properly numbered sections.
+- You can now copy and paste this into your `README.md` file, and it will render with properly numbered sections.
